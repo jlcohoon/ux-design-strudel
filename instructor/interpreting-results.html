@@ -244,6 +244,7 @@
     <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
       <div class="accordion-body">
         <ul><li><a href="#introduction">Introduction</a></li>
+<li><a href="#challenge-2-how-do-you-nest-solutions-within-challenge-blocks">Challenge 2: how do you nest solutions within challenge blocks?</a></li>
 <li><a href="#figures">Figures</a></li>
 <li><a href="#math">Math</a></li>
         </ul></div><!--/div.accordion-body-->
@@ -388,7 +389,7 @@ reinforce the objectives.</li>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>Inline instructor notes can help inform instructors of timing
 challenges associated with the lessons. They appear in the “Instructor
@@ -411,6 +412,20 @@ View”</p>
 <pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">paste</span><span class="op">(</span><span class="st">"This"</span>, <span class="st">"new"</span>, <span class="st">"lesson"</span>, <span class="st">"looks"</span>, <span class="st">"good"</span><span class="op">)</span></span></code></pre>
 </div>
+<div id="discussion1" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Challenge</h3>
+<div class="callout-content">
+<p>Firstly what is your highest priority for software right now? What
+has informed that high priority?</p>
+<p>Write down a list (no more than 6) of what you consider your highest
+priorities right now for your software.</p>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -419,7 +434,7 @@ View”</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Output </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <div class="codewrapper">
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
@@ -430,23 +445,120 @@ View”</p>
 </div>
 </div>
 </div>
-<div id="challenge-2-how-do-you-nest-solutions-within-challenge-blocks" class="callout challenge">
+<div id="challenge-1-can-you-do-it" class="callout discussion">
 <div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
+<i class="callout-icon" data-feather="message-circle"></i>
 </div>
-<div id="challenge-2-how-do-you-nest-solutions-within-challenge-blocks" class="callout-inner">
-<h3 class="callout-title">Challenge 2: how do you nest solutions within challenge blocks?</h3>
+<div id="challenge-1-can-you-do-it" class="callout-inner">
+<h3 class="callout-title">Challenge 1: Can you do it?<em>
+(continued)</em>
+</h3>
 <div class="callout-content">
-
+<div class="tabs">
+<nav><div id="nav-tab-1" class="nav nav-tabs" role="tablist">
+<button class="nav-link active" id="nav-tab-1-1" data-bs-toggle="tab" data-bs-target="#nav-tabpanel-1-1" type="button" role="tab" aria-controls="nav-tabpanel-1-1" aria-selected="true">
+  <h3 class="tab-header" id="nav-tab-heading-1-1">
+  User Feedback 1
+  </h3>
+</button>
+<button class="nav-link" id="nav-tab-1-2" data-bs-toggle="tab" data-bs-target="#nav-tabpanel-1-2" type="button" role="tab" aria-controls="nav-tabpanel-1-2" aria-selected="false">
+  <h3 class="tab-header" id="nav-tab-heading-1-2">
+  User Feedback 1
+  </h3>
+</button>
+</div>
+</nav><div id="nav-tabContent-1" class="tab-content">
+<div id="nav-tabpanel-1-1" class="tab-pane show active" aria-labelledby="nav-tab-1-1" role="tabpanel">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+</div>
+<div id="nav-tabpanel-1-2" class="tab-pane" aria-labelledby="nav-tab-1-2" role="tabpanel">
+<p>This user wants things to be more X and less Y because doing X is
+really time consuming for them.</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>Typically, reducing the time effotr for users is a high priority…</p>
+<div class="callout-content">
+<p>This user wants things to be more X and less Y because doing X is
+really time consuming for them.</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>Typically, reducing the time effotr for users is a high priority…</p>
+</div>
+<div class="section level3 callout-title callout-inner">
+<h3 class="callout-title" id="user-feedback-1-1">User Feedback 1<a class="anchor" aria-label="anchor" href="#user-feedback-1-1"></a></h3>
+<div class="callout-content">
+<p>This user wants things to be more X and less Y because doing X is
+really time consuming for them.</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>Typically, reducing the time effotr for users is a high priority…</p>
+</div>
+</div>
+<div id="user-feedback-1-1" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="user-feedback-1-1" class="callout-inner">
+<h3 class="callout-title">User Feedback 1</h3>
+<div class="callout-content">
+<p>This user wants things to be more X and less Y because doing X is
+really time consuming for them.</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>Typically, reducing the time effotr for users is a high priority…</p>
 </div>
 </div>
 </div>
-<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+</div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="user-feedback-2">User Feedback 2<a class="anchor" aria-label="anchor" href="#user-feedback-2"></a></h3>
+<div id="user-feedback-2-1" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="user-feedback-2-1" class="callout-inner">
+<h3 class="callout-title">User Feedback 2</h3>
+<div class="callout-content">
+<p>Q: If you aren’t part of the solution, then what are you?</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>A: part of the precipitate</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="user-feedback-3">User Feedback 3<a class="anchor" aria-label="anchor" href="#user-feedback-3"></a></h3>
+<div id="user-feedback-3-1" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="user-feedback-3-1" class="callout-inner">
+<h3 class="callout-title">User Feedback 3</h3>
+<div class="callout-content">
+<p>Q: If you aren’t part of the solution, then what are you?</p>
+<p>:::::::::::::::: Designer’s Insight</p>
+<p>A: part of the precipitate</p>
+</div>
+</div>
+</div>
+<p>:::::::::::::::::::::::::::::::::::::::::::::::</p>
+<div class="codewrapper sourceCode" id="cb3">
+<h3 class="code-label">PYTHON<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="sourceCode python" tabindex="0"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" tabindex="-1"></a>  <span class="bu">print</span>(<span class="st">"Yay, tabs!"</span>)</span></code></pre>
+</div>
+<p>:::</p>
+</div>
+</section><section><h2 class="section-heading" id="challenge-2-how-do-you-nest-solutions-within-challenge-blocks">Challenge 2: how do you nest solutions within challenge blocks?<a class="anchor" aria-label="anchor" href="#challenge-2-how-do-you-nest-solutions-within-challenge-blocks"></a></h2>
+<hr class="half-width"><div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>You can add a line with at least three colons and a
 <code>solution</code> tag.</p>
@@ -454,6 +566,7 @@ View”</p>
 </div>
 </div>
 </div>
+<p>::::::::::::::::::::::::::::::::::::::::::::::::</p>
 </section><section><h2 class="section-heading" id="figures">Figures<a class="anchor" aria-label="anchor" href="#figures"></a></h2>
 <hr class="half-width"><p>You can use standard markdown for static figures with the following
 syntax:</p>
