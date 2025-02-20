@@ -49,6 +49,12 @@ ABC
 
 :::
 
+:::::::::::::::::::::::::::::::::::: instructor
+
+This is an instructor note. It contains information that can be useful for
+instructors to know.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::: challenge
