@@ -45,7 +45,26 @@ Read the following scenario and describe which outreach methods the researcher s
 
 ::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: challenge 
 
+## Challenge 2
+
+Read the following statements and determine if they are true or false.
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Statement | T/F? |
+| Paragraph |      |
+| Paragraph |      |
+| Paragraph |      |
+
+::::::::::::::::: solution
+
+## Solution
+
+::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
