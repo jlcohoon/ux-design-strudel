@@ -1,19 +1,23 @@
 ---
-title: "Using Markdown"
+title: "Interpreting results"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- How do I know that this is the most appropriate method to use for prioritisation?
+- How can I know that i'm interpreting user feedback correctly? 
+- How can i know that the grouping and labelling is the correct way to group and label?
+- Know i have feedback that i can apply to my highest priorities, how can I define an action or a change informed by this feedback?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- To make a choice of a 'high-priority' measurement, based on application of a method, having read and reviewed those methods, to the demo project.
+- Making better, more informed decisions about design.
+- Demonstrate how to group and label user feedback and assertain which are applicable to your high priorities or not and why.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

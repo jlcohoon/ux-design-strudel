@@ -66,7 +66,11 @@ contact: 'strudel@lbl.gov' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- choose-method.md
+- preparing-study.md
+- conducting-study.md
+- interpreting-results.md
+- summary-and-next-steps.md
 
 # Information for Learners
 learners: 
