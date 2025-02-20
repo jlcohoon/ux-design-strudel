@@ -45,7 +45,26 @@ Read the following scenario and describe which outreach methods the researcher s
 
 ::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: challenge 
 
+## Challenge 2
+
+Read the following statements and determine if they are true or false.
+
+| Statement | True/False? |
+| ----------- | ----------- |
+| During the interviews you plan to record audio but not video, so you do not need to prepare a media consent form. |      |
+| Paragraph |      |
+| Paragraph |      |
+| Paragraph |      |
+
+::::::::::::::::: solution
+
+## Solution
+
+::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
