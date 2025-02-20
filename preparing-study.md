@@ -53,7 +53,7 @@ Read the following statements and determine if they are true or false.
 
 | Statement | True/False? |
 | ----------- | ----------- |
-| You would like to record audio but not video during the interviews, so you do not need to prepare a media consent form. |      |
+| During the interviews you plan to record audio but not video, so you do not need to prepare a media consent form. |      |
 | Paragraph |      |
 | Paragraph |      |
 | Paragraph |      |
