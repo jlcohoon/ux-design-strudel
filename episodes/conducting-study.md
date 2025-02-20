@@ -27,6 +27,35 @@ exercises: 0
 
 Lorem ipsum
 
+::: tab
+
+You can take multiple approaches to developing useful notes:
+
+### Autotranscription
+
+123
+
+### Partner note-taker
+
+ABC
+
+### Debriefing
+
+123
+
+### AI summaries
+
+ABC
+
+:::
+
+:::::::::::::::::::::::::::::::::::: instructor
+
+This is an instructor note. It contains information that can be useful for
+instructors to know.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::: challenge
 
