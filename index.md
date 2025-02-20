@@ -14,3 +14,26 @@ Carpentries style lesson on ux research methods for making design decisions in s
 * Rapidly analyze user study data
 * Report findings from qualitative user research
 * ???something to connect to design decisions
+
+:::: prereq
+We feel confident about:
+- Have an example software that they can apply the lesson learnings and exercises to
+- general understanding of grant funding requirements
+- know/have an idea of what a GUI is
+- Know/have an idea of what a ‘user’ is
+- general understanding of iterative development styles
+- web browser use
+- have some coding experience (html/markdown) >> not required, but expecting for our primary audiences
+- what a readme is
+Q: Should this go with repos below?
+- who users are
+- What prototyping/wireframing is
+
+We feel less confident about:
+- knowledge of product lifecycle
+- What github/gitlab/repo’s are
+- Markdown
+- Active listening
+- Interpret metrics/feedback?
+- Understanding what feedback loops are
+::::
