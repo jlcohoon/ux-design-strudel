@@ -22,6 +22,31 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+Lesson content goes here
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+1. Define your project
+  * Describe your tool/software
+  * State one usability goal (e.g. reduce user errors during form completion)
+  * List your project's constraints
+2. Brainstorm
+  * List all possible methods you know / recall
+  * Use cheat sheet as a reference
+3. Filter & Select 
+  * Narrow your list to 5 methods that your team thinks best fits your project's constraints and goals
+  * Evaluate each method choosen against checklist/rubric??? (idk rn)
+4. Reflect
+  * Finalize your list
+  * Write a sentence per method explaining why it fits in your project 
+::::::::::::::::::::::::::::::::::::: solution
+
+Solution text
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
