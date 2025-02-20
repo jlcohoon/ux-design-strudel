@@ -56,6 +56,16 @@ What is the output of this command?
 paste("This", "new", "lesson", "looks", "good")
 ```
 
+:::::::::::::::::::::::: challenge
+
+Firstly what is your highest priority for software right now? What has informed that high priority?
+
+Write down a list (no more than 6) of what you consider your highest priorities right now for your software.
+
+::::::::::::::::::::::::  
+
+
+
 :::::::::::::::::::::::: solution 
 
 ## Output
@@ -65,6 +75,61 @@ paste("This", "new", "lesson", "looks", "good")
 ```
 
 :::::::::::::::::::::::::::::::::
+
+
+::: tab
+
+### User Feedback 1
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+## User Feedback 1
+
+This user wants things to be more X and less Y because doing X is really time consuming for them.
+
+:::::::::::::::: Designer's Insight
+
+Typically, reducing the time effotr for users is a high priority...
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+### User Feedback 2
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+## User Feedback 2
+
+Q: If you aren't part of the solution, then what are you?
+
+:::::::::::::::: Designer's Insight
+
+A: part of the precipitate
+
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+### User Feedback 3
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+## User Feedback 3
+
+Q: If you aren't part of the solution, then what are you?
+
+:::::::::::::::: Designer's Insight
+
+A: part of the precipitate
+
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+```python
+  print("Yay, tabs!")
+```
+
+:::
+
+
 
 
 ## Challenge 2: how do you nest solutions within challenge blocks?
