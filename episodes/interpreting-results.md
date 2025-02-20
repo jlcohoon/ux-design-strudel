@@ -79,44 +79,51 @@ Write down a list (no more than 6) of what you consider your highest priorities 
 
 ::: tab
 
-### User Feedback 1
+### Windows
+
+Some Windows instructions
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## User Feedback 1
-
-This user wants things to be more X and less Y because doing X is really time consuming for them.
-
-:::::::::::::::: Designer's Insight
-
-Typically, reducing the time effotr for users is a high priority...
-:::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-### User Feedback 2
-
-::::::::::::::::::::::::::::::::::::: challenge
-
-## User Feedback 2
+## Chemistry Joke
 
 Q: If you aren't part of the solution, then what are you?
 
-:::::::::::::::: Designer's Insight
+:::::::::::::::: solution
 
 A: part of the precipitate
 
 :::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-### User Feedback 3
+### Mac
+
+Maybe some for Mac
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## User Feedback 3
+## Chemistry Joke
 
 Q: If you aren't part of the solution, then what are you?
 
-:::::::::::::::: Designer's Insight
+:::::::::::::::: solution
+
+A: part of the precipitate
+
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+### Linux
+
+And more for Linux users, including a code block:
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+## Chemistry Joke
+
+Q: If you aren't part of the solution, then what are you?
+
+:::::::::::::::: solution
 
 A: part of the precipitate
 
