@@ -1,5 +1,5 @@
 ---
-title: "Preparing Your User Study and Recruiting Participants"
+title: "Preparing your User Study and Recruiting Participants"
 teaching: 0
 exercises: 0
 ---
@@ -25,7 +25,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-### Challenge 1
+## Challenge 1
 
 > Read the following scenario and describe which outreach methods the researcher should prepare to reach their target audience.
 
@@ -33,7 +33,7 @@ Rae would like to better understand the needs of field scientists who are monito
 
 ::::::::::::::::: solution
 
-### Solution
+## Solution
 
 ::::::::::::::::::::::::::
 
