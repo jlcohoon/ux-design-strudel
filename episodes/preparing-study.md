@@ -23,7 +23,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::: Challenge
+::::::::::::::::::::::::::::::::: challenge
 
 ### Challenge 1
 
@@ -31,9 +31,9 @@ Read the following scenario and describe which outreach methods the researcher s
 
 Rae would like to better understand the needs of field scientists who are monitoring algae blooms and sharing data through a web application. The scientists are scattered across different time zones and are more communicative over phone or video call. Rae is interested in recruiting current users and potential users for the study, but does not know everyone personally. They have access to their lab’s mailing list and know a few independent researchers with contacts.
 
-::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::: solution
 
-Lorem ipsum
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
