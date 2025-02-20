@@ -23,9 +23,9 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
-
 ::::::::::::::::::::::::::::::::: Challenge
+
+### Challenge 1
 
 Read the following scenario and describe which outreach methods the researcher should prepare to reach their target audience.
 
