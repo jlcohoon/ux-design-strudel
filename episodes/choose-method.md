@@ -25,6 +25,7 @@ exercises: 0
 Lesson content goes here
 
 ::::::::::::::::::::::::::::::::::::: challenge
+### Challenge header
 
 1. Define your project
   * Describe your tool/software
