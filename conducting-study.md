@@ -30,6 +30,8 @@ Lorem ipsum
 
 ::::::: challenge
 
+### Recording notes
+
 Read the following scenarios and answer two questions individually: What issues can you foresee for Rae in each of the following scenarios? What approaches could you take to mitigate those issues? When time is up, we will return to the group to discuss everyone’s responses.
 
 1. Rae has gotten permission to record the session in Zoom, meaning they will also have access to a transcription of the session. No one else is available to join Rae as a note taker for the session. 
