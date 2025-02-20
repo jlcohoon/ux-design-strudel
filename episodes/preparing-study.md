@@ -23,7 +23,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Content goes here
+## Introduction
 
 Lorem ipsum
 
