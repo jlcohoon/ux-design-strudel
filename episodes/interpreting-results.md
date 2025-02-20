@@ -85,8 +85,6 @@ Some Windows instructions
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## Chemistry Joke
-
 Q: If you aren't part of the solution, then what are you?
 
 :::::::::::::::: solution
@@ -102,7 +100,6 @@ Maybe some for Mac
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## Chemistry Joke
 
 Q: If you aren't part of the solution, then what are you?
 
@@ -119,7 +116,6 @@ And more for Linux users, including a code block:
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## Chemistry Joke
 
 Q: If you aren't part of the solution, then what are you?
 
