@@ -13,7 +13,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Able to choose UX methods for identifying different high priority user needs
+- Able to use UX methods for identifying different high priority user needs
 - List next steps to address your identified priorities
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -45,13 +45,13 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Challenge 1: Apply your knowledge of user research methods to navigate different scenarios of design decisions in your project.
 
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+Here we have 3 different scenarios, for each scenario, choose a research method, explain why you chose the research method and how it will help you and your stakeholders make intentional design decisions about your project. If you want to use more than one method, feel free, just articulate how you would use the methods together.
+ - Scenarios:
+    - Conflicting user input / feature requests
+    - Prioritizing which software improvement or feature to work on first
+    - Deciding how a feature looks/ works in the software
 
 :::::::::::::::::::::::: solution 
 
