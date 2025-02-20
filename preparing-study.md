@@ -23,7 +23,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::: Challenge
+::::::::::::::::::::::::::::::::::::: challenge 
 
 ### Challenge 1
 
@@ -33,7 +33,7 @@ Rae would like to better understand the needs of field scientists who are monito
 
 ::::::::::::::::::::::::::::::::::::::::::::
 
-Lorem ipsum
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
