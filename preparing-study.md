@@ -51,9 +51,9 @@ Read the following scenario and describe which outreach methods the researcher s
 
 Read the following statements and determine if they are true or false.
 
-| Syntax | Description |
+| Statement | True/False? |
 | ----------- | ----------- |
-| Statement | T/F? |
+| You would like to record audio but not video during the interviews, so you do not need to prepare a media consent form. |      |
 | Paragraph |      |
 | Paragraph |      |
 | Paragraph |      |
